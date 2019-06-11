@@ -1,4 +1,4 @@
-# @summary Recursively merges two or more hashes together, normalises keys with differing use of dashesh and underscores,
+# @summary Recursively merges two or more hashes together, normalises keys with differing use of dashes and underscores,
 #   then returns the resulting hash.
 #
 # @example
